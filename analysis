@@ -1,0 +1,62 @@
+validation
+
+no of files:  955
+no of objects : 1297
+-------no of images in class wise--------
+{'cylinder': 19, 'machine_gun': 126, 'mask': 46, 'pistle': 304, 'knife': 185, 'helmet': 269, 'Axe': 0, 'Sword': 20}
+-------------------------------------------
+cylinder - {0.3: 6, 0.4: 3, 0.5: 0}
+machine_gun - {0.3: 77, 0.4: 65, 0.5: 22}
+mask - {0.3: 0, 0.4: 0, 0.5: 0}
+pistle - {0.3: 98, 0.4: 59, 0.5: 10}
+knife - {0.3: 61, 0.4: 42, 0.5: 20}
+helmet - {0.3: 18, 0.4: 9, 0.5: 3}
+Axe - {0.3: 0, 0.4: 0, 0.5: 0}
+Sword - {0.3: 14, 0.4: 8, 0.5: 5}
+
+
+
+
+
+Test
+
+no of files:  407
+no of objects : 758
+-------no of images in class wise--------
+{'cylinder': 116, 'machine_gun': 61, 'mask': 117, 'pistle': 58, 'knife': 34, 'helmet': 167, 'Axe': 0, 'Sword': 12}
+-------------------------------------------
+cylinder - {0.3: 0, 0.4: 0, 0.5: 0}
+machine_gun - {0.3: 44, 0.4: 28, 0.5: 11}
+mask - {0.3: 0, 0.4: 0, 0.5: 0}
+pistle - {0.3: 11, 0.4: 7, 0.5: 3}
+knife - {0.3: 30, 0.4: 22, 0.5: 6}
+helmet - {0.3: 10, 0.4: 4, 0.5: 0}
+Axe - {0.3: 0, 0.4: 0, 0.5: 0}
+Sword - {0.3: 8, 0.4: 6, 0.5: 4}
+
+
+
+
+
+Train
+
+no of files:  9569
+no of objects : 14374
+-------no of images in class wise--------
+{'cylinder': 276, 'machine_gun': 1211, 'mask': 437, 'pistle': 3327, 'knife': 1642, 'helmet': 2726, 'Axe': 44, 'Sword': 157}
+-------------------------------------------
+cylinder - {0.3: 59, 0.4: 16, 0.5: 1}
+machine_gun - {0.3: 562, 0.4: 375, 0.5: 127}
+mask - {0.3: 11, 0.4: 2, 0.5: 0}
+pistle - {0.3: 1164, 0.4: 757, 0.5: 129}
+knife - {0.3: 377, 0.4: 251, 0.5: 68}
+helmet - {0.3: 85, 0.4: 24, 0.5: 7}
+Axe - {0.3: 23, 0.4: 12, 0.5: 3}
+Sword - {0.3: 102, 0.4: 73, 0.5: 17}
+
+
+
+
+
+
+
